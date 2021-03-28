@@ -1,2 +1,2 @@
-# Multi-Agent-Path-Finding
+# Electric vehicles
 AIFA Assignment 1
