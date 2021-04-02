@@ -1,0 +1,4 @@
+Cars ID,Source,destination,battery_status,charging_rate,discharge_rate,Max_battery,avg_speed
+0,2,1,7,2,2,10,3
+1,3,2,6,3,1.5,12,4
+2,1,2,8,4,2,11,2
