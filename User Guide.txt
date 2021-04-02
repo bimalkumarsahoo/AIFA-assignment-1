@@ -35,4 +35,4 @@ Run:
 Main code:
 - The main code file is in the 'bins' folder.
 
-Enjoy!
+:)
