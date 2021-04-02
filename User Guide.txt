@@ -1,0 +1,38 @@
+""" Group Members:
+1. 17IM30032 -  BIMAL KUMAR SAHOO
+2. 17IM10027 - VIKASH KUMAR
+3. 17IM30013 - NARAYANE VANAD VIVEK
+4. 17IM30012 - JITENDER SWAMI
+"""
+
+----------
+User Guide
+----------
+
+
+INPUT:
+- The input is taken from two files in input folder - 'cars.csv', 'distance.csv'
+
+- cars.csv:
+-- CarsID- Seriel number of the car.
+-- Source- Source node of the car [0 - (number of nodes-1)].
+-- Destination- Destination node of the car [0 - (number of nodes-1)].
+-- battery_status- Initial batter status of respective car
+-- charing_rate - The charging rate of respective car.
+-- discharge_rate - The discharging rate of the respective car
+-- Max_battery- Maximum capacity of the batter of the respective car
+-- avg_speed- Average speed of the respective car.
+
+- distance.csv: Represents the distance matrix with each element corresponding to edge joining the two nodes.
+
+- For manual inputs, the two mention '.csv' files can be modified (not altering the basic structure of the files).
+
+Run:
+- Run the 'Electric_vehicles.py' file.
+- It willtake the input from the two files (cars.csv, distance.csv) from the input folder. 
+- The default values are mentioned.
+
+Main code:
+- The main code file is in the 'bins' folder.
+
+Enjoy!
